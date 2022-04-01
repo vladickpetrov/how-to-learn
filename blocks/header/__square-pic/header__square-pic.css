@@ -5,5 +5,5 @@
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
-  z-index: -8;
+  animation: rotation linear infinite 20s;
 }
