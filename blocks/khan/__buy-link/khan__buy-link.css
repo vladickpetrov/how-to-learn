@@ -9,6 +9,6 @@
   
   .khan__buy-link:hover {
     color:#1f1f1f;
-    opacity: 60%;  
+    opacity: 60%;
     transition: opacity 0.2s linear, color 0.2s linear;
   }
