@@ -8,6 +8,6 @@
 
   .footer__column-link:hover {
     color: #2f80ed;
-    opacity: 60%;  
+    opacity: 60%;
     transition: opacity 0.2s linear, color 0.2s linear;
   }
